@@ -1,0 +1,76 @@
+.u-block-7c0c-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-7c0c-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-7c0c-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-1-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("images/bag.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 630px;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 100;
+  margin: 186px auto 0;
+}
+
+.u-section-1-1 .u-text-2 {
+  font-weight: 300;
+  margin: 10px auto 0;
+}
+
+.u-section-1-1 .u-btn-1 {
+  background-image: none;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  margin: 41px auto 0;
+  padding: 13px 41px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 519px;
+  }
+
+  .u-section-1-1 .u-btn-1 {
+    font-weight: normal;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 398px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 299px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 188px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 539px;
+}
